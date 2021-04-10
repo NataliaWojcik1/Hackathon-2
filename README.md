@@ -1,5 +1,12 @@
 # Hackathon-2
 
-WITAJ NA MOIM DRUGIM PROJEKCIE.
+Welcome on my second project.
 
-JEST TO KSIAZKA ADRESOWA, KTÓRA POZWOLI CI ZAPISAĆ ORAZ ODCZYTAĆ ZAPISANE WCZESNIEJ ELEMNTY.
+This time, I want you to get know my book address.
+
+This is easy way to save your friend's name as well as number of their phone. 
+What is more you can read these numbers which have been saved by you eariel.
+
+I hope, using this tool make your life a bit easier.
+
+
