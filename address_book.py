@@ -43,11 +43,3 @@ if __name__ == '__main__':
 
 number_list = []
 registration = {'name': 'Mark', 'number': 67823}
-
-# number_list.append(registration)
-
-# print(enter_info(number_list))
-# print(load_registration())
-
-# with open('number_list.json', mode='w') as packet:
-#     json.dump(number_list, packet)
